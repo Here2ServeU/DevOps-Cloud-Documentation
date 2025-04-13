@@ -6,7 +6,7 @@
 
 The **DevOps Infrastructure Checklist** is a comprehensive guide for Cloud and DevOps Engineers to assess, build, and continuously improve resilient, secure, and scalable systems across cloud environments.
 
-This checklist spans **13 core areas**, from scalability and security to FinOps and compliance, and is designed to ensure **end-to-end reliability, automation, observability, and governance** for modern cloud-native infrastructures.
+This checklist spans **12 core areas**, from scalability and security to FinOps and compliance, and is designed to ensure **end-to-end reliability, automation, observability, and governance** for modern cloud-native infrastructures.
 
 It includes actionable best practices and curated tools across **AWS, Azure, GCP**, as well as **open-source and third-party ecosystems**, helping you make informed technology decisions at every stage of the DevOps lifecycle.
 
@@ -225,7 +225,7 @@ Let me know if you'd like this section tailored to a specific cloud provider or 
 Let's connect and discuss how I can help you build reliable, automated infrastructure the right way.
 
 
-——
+——-
 
 MIT License © 2025 Emmanuel Naweji
 
