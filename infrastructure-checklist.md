@@ -51,11 +51,6 @@ Many items in the checklist can (and should) be automated via:
 
 ---
 
-Let me know if you'd like this section tailored to a specific cloud provider or platform (e.g., Kubernetes, serverless, multi-cloud).
-
-
----
-
 ## 1. Scalability
 
 | Action Item                   | AWS                         | Azure                         | GCP                           | Open-Source Tools                                      | Third-Party Tools        |
