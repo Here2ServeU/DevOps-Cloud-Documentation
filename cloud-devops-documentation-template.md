@@ -10,7 +10,7 @@ This comprehensive documentation scaffold is designed to support Cloud and DevOp
 Provide a high-level visual diagram that illustrates the cloud infrastructure setup. Use tools like Lucidchart or draw.io to design a diagram that outlines the key components, such as VPCs, subnets, instances, databases, and load balancers.
 
 ```
-![Architecture Diagram](./assets/architecture.png)
+![Architecture Diagram](assets/architecture.png)
 ```
 
 ### Cloud Resources
