@@ -161,7 +161,7 @@ CI/CD pipeline is configured in `.github/workflows/deploy.yml`
 ## Observability
 Refer to Grafana dashboard for metrics and Alertmanager for alerts.
 ```
-
+```
 ---
 
 ## 7. Best Practices
@@ -184,6 +184,7 @@ Refer to Grafana dashboard for metrics and Alertmanager for alerts.
 | Monitoring   | Prometheus, Grafana, ELK    |
 | Security     | Trivy, IAM, WAF             |
 
+'''
 ---
 
 > This template can be stored in GitHub, Notion, Confluence, or your GitOps documentation folder for version-controlled access and collaboration.
